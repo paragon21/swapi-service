@@ -1,0 +1,29 @@
+/* [Header] */
+
+header {
+    display: flex;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    background-color: #302f2f;
+  }
+  
+  header a {
+    color: #ffe300;
+  }
+  
+  header a:hover {
+    color: #ad9d23;
+  }
+  
+  .logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .nav {
+    margin-left: 2rem;
+  }
+  
+  .nav-link {
+    padding: .5rem 1.3rem;
+  }

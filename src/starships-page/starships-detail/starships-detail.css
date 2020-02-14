@@ -1,0 +1,17 @@
+.starship-details {
+    display: flex;
+    border-radius: 5px;
+    border: 2px solid #302f2f;
+    margin-top: 3rem;
+    width: 65%;
+}
+
+.starship-details__logo {
+    width: 15rem;
+    height: 20rem;
+}
+
+.starship-details__info  {
+    margin-left: 2rem;
+    font-size: 18px;
+}

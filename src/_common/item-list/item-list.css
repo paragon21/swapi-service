@@ -1,0 +1,17 @@
+.item-list {
+    border-radius: 5px;
+    border: 2px solid #302f2f;
+    margin-top: 3rem;
+    width: 30%;
+}
+
+.item-list__name {
+    list-style: none;
+    padding: 8px 15px;
+    box-sizing: border-box;
+}
+
+.item-list__name:hover {
+    background-color: #302f2f;
+    cursor: pointer;
+}
