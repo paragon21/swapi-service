@@ -13,7 +13,12 @@ function App() {
       <div className="app container">
         <Header />
         <RandomPlanet />
-        <Route path="/" render={() => <h2>Wellcome!</h2>} exact/>
+        <Route path="/" render={() => (
+          <>
+          <PersonPage />
+          <StarshipsPage />
+          </>
+        )} exact/>
         <Route path="/persons" component={PersonPage} />
         <Route path="/starships" component={StarshipsPage} />
         
