@@ -1,5 +1,5 @@
 ## Тестовое SPA на API Swapi
-Демо: 
+Демо: http://demo1.vdovin.org/ 
 ### Перед установкой требуется предварительно установить модули
 ```
 git clone https://github.com/paragon21/swapi-service
